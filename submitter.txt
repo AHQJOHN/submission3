@@ -1,0 +1,6 @@
+Group No.: 06
+Md. Ashfaqul Haque - 21166016
+Israt Jahan Dristy - 21166046
+task: Chapter Review: (Chapter 10 : Boosting) - Understanding Machine Learning: From Theory to Algorithms - https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html 
+
+
